@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package calculadoratarea1;
-//Comentario ejercicio 5
+//Comentario  tarea2 ejercico3
 /**
  *
  * @author Admin
